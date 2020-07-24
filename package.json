@@ -1,7 +1,7 @@
 {
   "name": "githubjobs",
   "version": "0.1.0",
-  "homepage": "https://github.com/brianwangocho/reacgitgithubjobs/",
+  "homepage": "http://github.com/brianwangocho/reacgitgithubjobs/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
