@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/brianwangocho/reactgithubjobs/static/css/main.62969d29.chunk.css",
-    "main.js": "/brianwangocho/reactgithubjobs/static/js/main.2dbedd1a.chunk.js",
-    "main.js.map": "/brianwangocho/reactgithubjobs/static/js/main.2dbedd1a.chunk.js.map",
-    "runtime-main.js": "/brianwangocho/reactgithubjobs/static/js/runtime-main.9236d748.js",
-    "runtime-main.js.map": "/brianwangocho/reactgithubjobs/static/js/runtime-main.9236d748.js.map",
-    "static/js/2.99a24d3f.chunk.js": "/brianwangocho/reactgithubjobs/static/js/2.99a24d3f.chunk.js",
-    "static/js/2.99a24d3f.chunk.js.map": "/brianwangocho/reactgithubjobs/static/js/2.99a24d3f.chunk.js.map",
-    "index.html": "/brianwangocho/reactgithubjobs/index.html",
-    "precache-manifest.d794e592c870379114bc4a5789b8557f.js": "/brianwangocho/reactgithubjobs/precache-manifest.d794e592c870379114bc4a5789b8557f.js",
-    "service-worker.js": "/brianwangocho/reactgithubjobs/service-worker.js",
-    "static/css/main.62969d29.chunk.css.map": "/brianwangocho/reactgithubjobs/static/css/main.62969d29.chunk.css.map",
-    "static/js/2.99a24d3f.chunk.js.LICENSE.txt": "/brianwangocho/reactgithubjobs/static/js/2.99a24d3f.chunk.js.LICENSE.txt"
+    "main.css": "/brianwangocho/reacgitgithubjobs/static/css/main.62969d29.chunk.css",
+    "main.js": "/brianwangocho/reacgitgithubjobs/static/js/main.f8f43016.chunk.js",
+    "main.js.map": "/brianwangocho/reacgitgithubjobs/static/js/main.f8f43016.chunk.js.map",
+    "runtime-main.js": "/brianwangocho/reacgitgithubjobs/static/js/runtime-main.0d2a371f.js",
+    "runtime-main.js.map": "/brianwangocho/reacgitgithubjobs/static/js/runtime-main.0d2a371f.js.map",
+    "static/js/2.99a24d3f.chunk.js": "/brianwangocho/reacgitgithubjobs/static/js/2.99a24d3f.chunk.js",
+    "static/js/2.99a24d3f.chunk.js.map": "/brianwangocho/reacgitgithubjobs/static/js/2.99a24d3f.chunk.js.map",
+    "index.html": "/brianwangocho/reacgitgithubjobs/index.html",
+    "precache-manifest.98497319a88d7af9e6ed7ef072e6804f.js": "/brianwangocho/reacgitgithubjobs/precache-manifest.98497319a88d7af9e6ed7ef072e6804f.js",
+    "service-worker.js": "/brianwangocho/reacgitgithubjobs/service-worker.js",
+    "static/css/main.62969d29.chunk.css.map": "/brianwangocho/reacgitgithubjobs/static/css/main.62969d29.chunk.css.map",
+    "static/js/2.99a24d3f.chunk.js.LICENSE.txt": "/brianwangocho/reacgitgithubjobs/static/js/2.99a24d3f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9236d748.js",
+    "static/js/runtime-main.0d2a371f.js",
     "static/js/2.99a24d3f.chunk.js",
     "static/css/main.62969d29.chunk.css",
-    "static/js/main.2dbedd1a.chunk.js"
+    "static/js/main.f8f43016.chunk.js"
   ]
 }
